@@ -1,9 +1,9 @@
-public class HelloWorld {
+public class helloworld {
     
     // Your program begins with a call to main()
     public static void main(String[] args)
     {
         // Prints "Hello, World" to the terminal window.
-        System.out.println("Hello, tammani you are good in CI/CD");
+        System.out.println("Hello, World");
     }
 }
